@@ -7,3 +7,11 @@ While In The Museum, Use the spacehack android app to scan the images for a uniq
 
 Demo:
  https://www.youtube.com/watch?v=CSO9ZE5VnWU&feature=youtu.be
+
+ Controls:
+
+ WASD - Movement
+ Mouse - Free Look
+ Shift - Sprint
+ Left ctrl - Crouch
+ Right Click - Zoom In
