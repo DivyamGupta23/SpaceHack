@@ -11,7 +11,11 @@ Demo:
  Controls:
 
  WASD - Movement
+ 
  Mouse - Free Look
+ 
  Shift - Sprint
+ 
  Left ctrl - Crouch
+ 
  Right Click - Zoom In
