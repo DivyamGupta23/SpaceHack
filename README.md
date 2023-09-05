@@ -1,6 +1,7 @@
 # SpaceHack
 This  Project was made by team MVPs during the SpaceHack Hackathon That was held at the IIID campus on 25-26 August,2023
-Set-Up:
+
+## Set-Up:
 - Clone the repository in a folder, then just run the "spacehack.exe" 
 
 While In The "Museum", Use the spacehack android app to scan the images for a unique AR experience 
